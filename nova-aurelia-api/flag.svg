@@ -1,6 +1,7 @@
-<svg fill="none" viewBox="0 150 129.6 550" height="500" width="900" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 129.6 550" height="500" width="900" xmlns="http://www.w3.org/2000/svg">
   <foreignObject x="0" y="180" height="100%" width="100%" class="flag progress">
     <style>
+
 
             .flag{
             width: 80vmin;
@@ -20,6 +21,6 @@
         }
     </style>
         <div xmlns="http://www.w3.org/1999/xhtml" class="flag intersex-inclusive" role="img" aria-label="Intersex-Inclusive Pride Flag. The traditional gay pride flag with 6 bars: red, orange, yellow, green, blue, and indigo. On the left side, it has triangles of color: yellow (with a violet ring inside), white, pink, light blue, brown, and black.">
-        </div> 
+        </div>
     </foreignObject>
 </svg>
