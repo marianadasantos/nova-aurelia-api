@@ -1,6 +1,6 @@
 # NOVA-AURÉLIA-API
 
-<img src="https://i0.statig.com.br/bancodeimagens/ac/lh/jl/aclhjlddzn8bftdqih882tkx5.jpg" alt="Image of an LGBTQIA+ flag" style="align: center;" height="150" width="250"/>
+<img src="https://i0.statig.com.br/bancodeimagens/ac/lh/jl/aclhjlddzn8bftdqih882tkx5.jpg" alt="Image of an LGBTQIA+ flag" style="align: center;" height="200"/>
 
 ## INTRODUÇÃO
 
