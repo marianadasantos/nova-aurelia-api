@@ -1,9 +1,6 @@
 # NOVA-AURÉLIA-API
 
-<img src="flag.svg" />
-
-[Flag code](https://codepen.io/alvaromontoro/full/NWyBrZJ "flag code")
-
+<img src="https://i0.statig.com.br/bancodeimagens/ac/lh/jl/aclhjlddzn8bftdqih882tkx5.jpg" alt="Image of an LGBTQIA+ flag" height="150"/>
 
 ## INTRODUÇÃO
 
