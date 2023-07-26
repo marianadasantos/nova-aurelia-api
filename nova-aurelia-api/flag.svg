@@ -1,8 +1,8 @@
 <svg fill="none" viewBox="0 0 129.6 550" height="500" width="900" xmlns="http://www.w3.org/2000/svg">
   <foreignObject x="0" y="180" height="100%" width="100%" class="flag progress">
     <style>
-
-
+    
+    
             .flag{
             width: 80vmin;
             aspect-ratio: 70 / 45;
