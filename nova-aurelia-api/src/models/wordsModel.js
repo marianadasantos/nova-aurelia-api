@@ -1,5 +1,6 @@
 const mongoose = require('mongoose')
- const wordsSchema = mongoose.Schema(
+
+const wordsSchema = new mongoose.Schema(
     {
         _id: {
             type: mongoose.Schema.Types.ObjectId,

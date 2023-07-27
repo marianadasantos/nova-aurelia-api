@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-const peopleSchema = mongoose.Schema({
+const peopleSchema = new mongoose.Schema({
 
     _id: {
         type: mongoose.Schema.Types.ObjectId,
