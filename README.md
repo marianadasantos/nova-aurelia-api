@@ -17,7 +17,7 @@ Dessa forma, a ideia da Nova-Aurélia-api surgiu como uma forma mapeamento de l�
 ## FUNCIONAMENTO
 
 A Nova-Aurélia possibilita a criação e armazenamento de dois tipos de informações: registro de pessoas e de palavras. 
-Assim, torna-se possível identificar e traçar o perfil dos usuários dessa API, já que as informações requisitadas contam com: username, email, senha, nome, idade, gênero e orientação sexual.
+Assim, torna-se possível identificar e traçar o perfil dos usuários dessa API, já que as informações requisitadas contam com: _username_, email, senha, nome, idade, gênero e orientação sexual.
 Do mesmo modo, por meio do registro de palavras é possível analisar os seus vieses de acordo com a data de registro, localidade e significado. O conjunto de informações requisitadas para tal registro conta com: palavra, descrição, ano, estado e id do usuário que a registrou.
 
 ### PEOPLE
