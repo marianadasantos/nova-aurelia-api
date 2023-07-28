@@ -13,10 +13,13 @@ A Nova-Aurélia-api busca ser um meio de mostrar a importância das variações 
 
 Dessa forma, a ideia da Nova-Aurélia-api surgiu como uma forma mapeamento de léxico LGBTQIAP+ pelo Brasil, já que, ao utilizar a api, existe um campo de registro de usuários - que solicita algumas informações sobre aquela pessoa - e o campo de registro das palavras, que solicita informações como: ano, localidade, significado daquela palavra etc. Por conseguinte, forma-se um banco de dados com as palavras adicionadas pelos usuários.
 
-___
+
 ## FUNCIONAMENTO
 
-____
+A Nova-Aurélia possibilita a criação e armazenamento de dois tipos de informações: registro de pessoas e de palavras. 
+Assim, torna-se possível identificar e traçar o perfil dos usuários dessa API, já que as informações requisitadas contam com: username, email, senha, nome, idade, gênero e orientação sexual.
+Do mesmo modo, por meio do registro de palavras é possível analisar os seus vieses de acordo com a data de registro, localidade e significado. O conjunto de informações requisitadas para tal registro conta com: palavra, descrição, ano, estado e id do usuário que a registrou.
+
 ### PEOPLE
 
 Local de registro e armazenamento de dados dos usuários:
@@ -44,10 +47,10 @@ Local de registro e armazenamento das palavras:
         "userId": "64bf2adbf3d3ba19a9240143"
     }
 
-___
-### ROTAS E REQUISIÇÕES
-___
-#### PEOPLE (USUÁRIO)
+
+## ROTAS E REQUISIÇÕES
+
+### PEOPLE (USUÁRIO)
 
 <table>
 <thead>
@@ -97,7 +100,7 @@ ___
 </table>
 
 ____
-#### WORDS (PALAVRAS)
+### WORDS (PALAVRAS)
 
 <table>
 <thead>
@@ -195,21 +198,21 @@ ____
 </tr>
 </table>
 
-____
-### BANCO DE DADOS
+
+## BANCO DE DADOS
 
 Para construir esta aplicação, foi utilizado o MongoDB Atlas juntamente ao mongoose.
 
-___
-### AUTENTICAÇÃO
+
+## AUTENTICAÇÃO
 
 Para a segurança das rotas foi utilizado o jsonwebtoken, bcrypt e um encriptador em hash.
-_____
-### TESTES
+
+## TESTES
 
 Os testes foram realizados com jest. Ao construir _mocks_ por meio do schema de **words**, o sistema de CRUD foi testado com dados simulados.  
 
-___
-### CONTATO
+
+## CONTATO
 
 [LinkedIn](https://www.linkedin.com/in/marianadasantos/ "LinkedIn")
