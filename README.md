@@ -48,57 +48,6 @@ Local de registro e armazenamento das palavras:
     }
 
 
-## DEPENDÊNCIAS 
-
-<table>
-<thead>
-<tr>
-<th>Library</th>
-<th>Version</th>
-</tr>
-</thead>
-<tr>
-<td>bcrypt</td>
-<td>5.1.0</td>
-</tr>
-<tr>
-<td>cors</td>
-<td>2.8.5</td>
-</tr>
-<tr>
-<td>dotenv</td>
-<td>16.3.1</td>
-</tr>
-<tr>
-<td>express</td>
-<td>4.18.2</td>
-</tr>
-<tr>
-<td>jsonwebtoken</td>
-<td>9.0.1</td>
-</tr>
-<tr>
-<td>mongoose</td>
-<td>6.7.1</td>
-</tr>
-<tr>
-<td>swagger-autogen</td>
-<td>2.23.5</td>
-</tr>
-<tr>
-<td>swagger-ui-express</td>
-<td>5.0.0</td>
-</tr>
-<tr>
-<td>jest</td>
-<td>29.6.1</td>
-</tr>
-<tr>
-<td>nodemon</td>
-<td>3.0.1</td>
-</tr>
-
-
 ## ROTAS E REQUISIÇÕES
 
 ### PEOPLE (USUÁRIO)
